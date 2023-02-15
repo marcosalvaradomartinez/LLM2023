@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Rey",
+        "price":8,
+        "photo":"rey.jpg"
+    },
+    {
+        "id":2,
+        "name":"Mandalorian",
+        "price":11,
+        "photo":"mandalorian.jpg"
+    },
+    {
+        "id":3,
+        "name":"Wrecker",
+        "price":15,
+        "photo":"wrecker.jpg"
+    },
+    {
+        "id":4,
+        "name":"Hunter",
+        "price":19,
+        "photo":"hunter.jpg"
+    },
+    {
+        "id":5,
+        "name":"Bobba-Fett",
+        "price":20,
+        "photo":"boba-fett.jpg"
+    }
+]
